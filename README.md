@@ -132,6 +132,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP server for reading, creating, and managing Notion pages and databases. ![GitHub Repo stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=flat)
 - [Spec Workflow MCP](https://github.com/Pimzino/spec-workflow-mcp) - Structured spec-driven development workflow tools with a real-time web dashboard and VSCode extension. ![GitHub Repo stars](https://img.shields.io/github/stars/Pimzino/spec-workflow-mcp?style=flat)
 - [Stripe AI](https://github.com/stripe/ai) - Stripe's tools for building AI-powered products and businesses, with MCP server support. ![GitHub Repo stars](https://img.shields.io/github/stars/stripe/ai?style=flat)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Solana AI agent wallets with x402 micropayment verification. Zero-install MCP for checking agent payment readiness and on-chain trust history. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Search and Research
 
