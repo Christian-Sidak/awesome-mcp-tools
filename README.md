@@ -135,10 +135,13 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### Search and Research
 
-- [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Production-ready MCP server with real-time search, extract, map, and crawl capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat)
 - [Deep Research](https://github.com/u14app/deep-research) - Use any LLMs for deep research. Supports SSE API and MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)
+- [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Production-ready MCP server with real-time search, extract, map, and crawl capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat)
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion and trend monitor with multi-platform aggregation, RSS, and smart alerts. MCP-compatible. ![GitHub Repo stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat)
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - Remote MCP server for X search, profiles, followers, trends, monitoring, and webhooks. Not affiliated with X Corp. ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat)
+
+Xquik is an independent third-party service. Not affiliated with X Corp.
+"Twitter" and "X" are trademarks of X Corp.
 
 ### Security and Reverse Engineering
 
@@ -160,7 +163,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 These applications natively support MCP as a client, letting you connect MCP servers to your AI workflow:
 
 - [Claude Desktop](https://claude.ai/download) - Anthropic's desktop application for Claude, with native MCP support.
-- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) - Anthropic's CLI for agentic coding with built-in MCP client.
+- [Claude Code](https://code.claude.com/docs/en/overview) - Anthropic's CLI for agentic coding with built-in MCP client.
 - [Cline](https://github.com/cline/cline) - Autonomous coding agent in your IDE with MCP client support. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=flat)
 - [Continue](https://github.com/continuedev/continue) - Open-source AI code assistant with MCP support. Works in VS Code and JetBrains. ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=flat)
 - [Cursor](https://cursor.com/) - AI-powered code editor with built-in MCP client support.
@@ -184,7 +187,7 @@ These applications natively support MCP as a client, letting you connect MCP ser
 ## Learning Resources
 
 - [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum covering MCP fundamentals through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust, and Python. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat)
-- [MCP Specification](https://spec.modelcontextprotocol.io/) - The full protocol specification covering transports, capabilities, and message formats.
+- [MCP Specification](https://modelcontextprotocol.io/specification/2025-11-25) - The full protocol specification covering transports, capabilities, and message formats.
 - [Building MCP with LLMs](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms) - Official tutorial on using LLMs to help build MCP servers.
 - [MCP Quickstart Guide](https://modelcontextprotocol.io/quickstart) - Get started building your first MCP server in under 15 minutes.
 
