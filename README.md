@@ -133,6 +133,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [Deep Research](https://github.com/u14app/deep-research) - Use any LLMs for deep research. Supports SSE API and MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion and trend monitor with multi-platform aggregation, RSS, and smart alerts. MCP-compatible. ![GitHub Repo stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat)
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 ### Security and Reverse Engineering
 
 - [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP server for Ghidra, enabling AI-assisted binary analysis and reverse engineering. ![GitHub Repo stars](https://img.shields.io/github/stars/LaurieWired/GhidraMCP?style=flat)
