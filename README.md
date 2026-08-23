@@ -99,6 +99,8 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 ### Communication and Messaging
 
 - [Slack MCP Server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack server, with no permission requirements, Apps support, GovSlack, DMs, Group DMs, and smart history fetch logic. ![GitHub Repo stars](https://img.shields.io/github/stars/korotovsky/slack-mcp-server?style=flat)
+* [Bug Bounty Intelligence](https://github.com/holistis/bug-bounty-intelligence-mcp) - AI smart contract security scanner. Tools: `scan_contract` (paid, USDC), `list_vulnerability_patterns` (free), `get_scan_report` (free). Trained on 27,681 accepted findings from Sherlock + Code4rena. Payment: x402 (HTTP 402, USDC on Base). MCP registry: `io.github.holistis/bug-bounty-intelligence-mcp`. Install: `npx -y github:holistis/bug-bounty-intelligence-mcp`. License: MIT.
+
 - [WhatsApp MCP](https://github.com/lharries/whatsapp-mcp) - MCP server for WhatsApp messaging, enabling AI agents to read and send messages. ![GitHub Repo stars](https://img.shields.io/github/stars/lharries/whatsapp-mcp?style=flat)
 - [Gmail MCP](https://github.com/shinzo-labs/gmail-mcp) - MCP implementation for Gmail services. Read, send, search, and manage emails through MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/shinzo-labs/gmail-mcp?style=flat)
 - [Mac Messages MCP](https://github.com/carterlasalle/mac_messages_mcp) - MCP server that interfaces with the macOS Messages (iMessage) database. Query conversations, search messages, handle attachments, and send messages. ![GitHub Repo stars](https://img.shields.io/github/stars/carterlasalle/mac_messages_mcp?style=flat)
