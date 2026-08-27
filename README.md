@@ -128,7 +128,6 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [Stripe AI](https://github.com/stripe/ai) - Stripe's tools for building AI-powered products and businesses, with MCP server support. ![GitHub Repo stars](https://img.shields.io/github/stars/stripe/ai?style=flat)
 
 ### Search and Research
-- [ox402-utils](https://treating-arcade-overall-enough.trycloudflare.com) - 88 paid tools for AI agents via x402 (USDC on Base) with MCP server at `/mcp402/`. AI image gen, rewrite/translate, resume parser, PDF tools, research, security, media, speech (Kokoro TTS). Free tier: 5 calls/IP.
 
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Production-ready MCP server with real-time search, extract, map, and crawl capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat)
 - [Deep Research](https://github.com/u14app/deep-research) - Use any LLMs for deep research. Supports SSE API and MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)
@@ -193,3 +192,5 @@ These applications natively support MCP as a client, letting you connect MCP ser
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+- [ox402-utils](https://deviant-oils-guardian-coating.trycloudflare.com) - 87 paid micro-utilities for AI agents via x402 (USDC on Base): research/web, PDF+OCR, speech (Kokoro neural TTS, Whisper STT), security recon, dev tools, media. Free trial: 10 calls/IP. MCP server at /mcp402/. SDK: POST /x402/paid/<tool> with x402 payment.
