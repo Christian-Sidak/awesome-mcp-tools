@@ -128,6 +128,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [Stripe AI](https://github.com/stripe/ai) - Stripe's tools for building AI-powered products and businesses, with MCP server support. ![GitHub Repo stars](https://img.shields.io/github/stars/stripe/ai?style=flat)
 
 ### Search and Research
+- [ox402-utils](https://treating-arcade-overall-enough.trycloudflare.com) - 88 paid tools for AI agents via x402 (USDC on Base) with MCP server at `/mcp402/`. AI image gen, rewrite/translate, resume parser, PDF tools, research, security, media, speech (Kokoro TTS). Free tier: 5 calls/IP.
 
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Production-ready MCP server with real-time search, extract, map, and crawl capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat)
 - [Deep Research](https://github.com/u14app/deep-research) - Use any LLMs for deep research. Supports SSE API and MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)
