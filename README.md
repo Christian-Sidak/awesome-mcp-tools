@@ -192,3 +192,5 @@ These applications natively support MCP as a client, letting you connect MCP ser
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+- [ox402-utils](https://deviant-oils-guardian-coating.trycloudflare.com) - 87 paid micro-utilities for AI agents via x402 (USDC on Base): research/web, PDF+OCR, speech (Kokoro neural TTS, Whisper STT), security recon, dev tools, media. Free trial: 10 calls/IP. MCP server at /mcp402/. SDK: POST /x402/paid/<tool> with x402 payment.
