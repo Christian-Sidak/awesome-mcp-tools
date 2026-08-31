@@ -1,5 +1,6 @@
 # Awesome MCP Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!-- AUTO-GENERATED: DO NOT EDIT MANUALLY -->
 > A curated list of servers, tools, SDKs, and resources for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) ecosystem.
 
 MCP is an open protocol that standardizes how AI applications connect to external data sources and tools. Think of it as a USB-C port for AI - one standard interface that works everywhere.
@@ -41,6 +42,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### Official SDKs
 
+- [Bug Bounty Intelligence](#bug-bounty-intelligence)
 - [Python SDK](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for building MCP servers and clients. Full protocol support with async/await. ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat)
 - [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for building MCP servers and clients. ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat)
 
@@ -89,6 +91,10 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [MCP Server Chart](https://github.com/antvis/mcp-server-chart) - Visualization MCP server with 25+ chart types using AntV. Great for chart generation and data analysis. ![GitHub Repo stars](https://img.shields.io/github/stars/antvis/mcp-server-chart?style=flat)
 - [Magic MCP](https://github.com/21st-dev/magic-mcp) - Like v0 but in your IDE. 21st.dev's MCP server for working with frontend components. ![GitHub Repo stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=flat)
 - [Shadcn UI MCP](https://github.com/Jpisnice/shadcn-ui-mcp-server) - MCP server providing context about shadcn/ui component structure, usage, and installation for React, Svelte, Vue, and React Native. ![GitHub Repo stars](https://img.shields.io/github/stars/Jpisnice/shadcn-ui-mcp-server?style=flat)
+### Bug Bounty Intelligence
+
+- [bug-bounty-intelligence-mcp](https://github.com/holistis/bug-bounty-intelligence-mcp) - AI smart contract security scanner trained on 27k+ accepted findings from Sherlock & Code4rena. `scan_contract` is paid via x402 (USDC on Base); `list_vulnerability_patterns` and `get_scan_report` are free. Install: `npx -y github:holistis/bug-bounty-intelligence-mcp`. License: MIT. MCP registry: `io.github.holistis/bug-bounty-intelligence-mcp`.
+
 
 ### Cloud and Infrastructure
 
