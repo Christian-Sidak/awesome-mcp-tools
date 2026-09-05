@@ -64,6 +64,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### Browser and Web
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available MCP tools to author, run, and inspect natural-language web, Android, and iOS tests (FSL-1.1-ALv2). ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat)
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation, testing, and web scraping. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat)
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents. Inspect, debug, and interact with web pages programmatically. ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat)
 - [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) - Official Firecrawl MCP server for web scraping and search. Works with Cursor, Claude, and other LLM clients. ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat)
