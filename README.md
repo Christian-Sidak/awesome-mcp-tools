@@ -93,6 +93,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 ### Cloud and Infrastructure
 
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - Official MCP servers for AWS services. ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/mcp?style=flat)
+- [BlockVectra](https://github.com/blockvectra/mcp) - Hosted MCP for keyless docs and permitted public EVM RPC reads; indexed Data API requires a key and usage limits apply. ![GitHub Repo stars](https://img.shields.io/github/stars/blockvectra/mcp?style=flat)
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) - MCP server for managing Cloudflare services. ![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat)
 - [Grafana MCP](https://github.com/grafana/mcp-grafana) - MCP server for Grafana, enabling AI-assisted dashboard management and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/grafana/mcp-grafana?style=flat)
 
