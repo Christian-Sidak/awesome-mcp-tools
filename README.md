@@ -136,8 +136,9 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 ### Security and Reverse Engineering
 
 - [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP server for Ghidra, enabling AI-assisted binary analysis and reverse engineering. ![GitHub Repo stars](https://img.shields.io/github/stars/LaurieWired/GhidraMCP?style=flat)
-- [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant bridging IDA Pro with language models through MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/mrexodia/ida-pro-mcp?style=flat)
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - Advanced MCP server running 150+ cybersecurity tools for automated pentesting, vulnerability discovery, and security research. ![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=flat)
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - MCP-enabled AI agent security tool that reviews supported tool calls and enforces local approval policies. ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=flat)
+- [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant bridging IDA Pro with language models through MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/mrexodia/ida-pro-mcp?style=flat)
 
 ### System and Desktop
 
