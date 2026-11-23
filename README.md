@@ -132,6 +132,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Production-ready MCP server with real-time search, extract, map, and crawl capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat)
 - [Deep Research](https://github.com/u14app/deep-research) - Use any LLMs for deep research. Supports SSE API and MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion and trend monitor with multi-platform aggregation, RSS, and smart alerts. MCP-compatible. ![GitHub Repo stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat)
+- [FlowFeed](https://github.com/loyt1/flowfeed-mcp) - Hosted MCP server for real-time macro, forex and crypto news and economic calendar. ![GitHub Repo stars](https://img.shields.io/github/stars/loyt1/flowfeed-mcp?style=flat)
 
 ### Security and Reverse Engineering
 
