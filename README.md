@@ -77,6 +77,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 ### Code and Development
 
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server for repository management, issues, pull requests, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat)
+- [Selvedge](https://github.com/masondelan/selvedge) - Local stdio MCP server and CLI for saving coding decisions, reasons, and rejected approaches in SQLite and retrieving them across sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/masondelan/selvedge?style=flat)
 - [Serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic code retrieval and editing capabilities. An IDE for your agent. ![GitHub Repo stars](https://img.shields.io/github/stars/oraios/serena?style=flat)
 - [GitMCP](https://github.com/idosal/git-mcp) - Free, open-source, remote MCP server for any GitHub project. Reduces code hallucinations by providing real repo context. ![GitHub Repo stars](https://img.shields.io/github/stars/idosal/git-mcp?style=flat)
 - [Context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors. Provides real library docs instead of outdated training data. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7?style=flat)
