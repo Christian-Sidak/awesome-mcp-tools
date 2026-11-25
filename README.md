@@ -98,6 +98,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### Communication and Messaging
 
+- [Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP) - Hosted OAuth MCP for drafting email campaigns, building contact segments, and reviewing performance. ![GitHub Repo stars](https://img.shields.io/github/stars/Poptin-LTD/Poptin-MCP?style=flat)
 - [Slack MCP Server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack server, with no permission requirements, Apps support, GovSlack, DMs, Group DMs, and smart history fetch logic. ![GitHub Repo stars](https://img.shields.io/github/stars/korotovsky/slack-mcp-server?style=flat)
 - [WhatsApp MCP](https://github.com/lharries/whatsapp-mcp) - MCP server for WhatsApp messaging, enabling AI agents to read and send messages. ![GitHub Repo stars](https://img.shields.io/github/stars/lharries/whatsapp-mcp?style=flat)
 - [Gmail MCP](https://github.com/shinzo-labs/gmail-mcp) - MCP implementation for Gmail services. Read, send, search, and manage emails through MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/shinzo-labs/gmail-mcp?style=flat)
